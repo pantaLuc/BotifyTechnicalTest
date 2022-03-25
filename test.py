@@ -35,7 +35,7 @@ def main():
     expression = get_data("file1.json")["fields"]
     where_clause = process(expression)
 
-    return "SELECT * FROM town  WHERE {}".format(where_clause)
+    return "SELECT * FROM Town  WHERE {}".format(where_clause)
 
 if __name__ == '__main__':
     print(main())
