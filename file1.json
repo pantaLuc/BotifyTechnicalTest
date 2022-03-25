@@ -1,0 +1,28 @@
+{
+    
+    "fields": [
+      {
+        "id": 1,
+        "code": 76140,
+        "name":"Rouen",
+        "average_age": 12,
+        "district_code":85,
+        "department_code": "varchar",
+        "region_code":76,
+        "region_name":"Normandie "
+      },
+      {
+        "id": 2,
+        "code": 76140,
+        "name":"Rouen",
+        "average_age": 12,
+        "district_code":85,
+        "department_code": "varchar",
+        "region_code":76,
+        "region_name":"Normandie "
+      }
+     
+     
+    ]
+   
+  }
